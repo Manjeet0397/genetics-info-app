@@ -51,28 +51,27 @@ commonmark==0.9.1
 comtypes==1.1.7
 
 conda-build==2.1.5
-conda-package-handling
+
 conda-verify
 contextlib2
 cryptography
 cycler
 cymem
 
-cytoolz==0.10.1
+cytoolz
 
-db==0.1.1
-db-sqlite3==0.0.1
-decorator==4.4.2
-defusedxml==0.6.0
-
-Django==3.2
-django-cors-headers==3.11.0
-django-import-export==2.8.0
-django-rest-knox==4.2.0
-djangorestframework==3.13.1
-djangorestframework-simplejwt==5.1.0
-docutils==0.16
-emoji==1.7.0
+db
+db-sqlite3
+decorator
+defusedxml
+Django
+django-cors-headers
+django-import-export
+django-rest-knox
+djangorestframework
+djangorestframework-simplejwt
+docutils
+emoji
 entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.1.0
