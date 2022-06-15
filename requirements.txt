@@ -10,6 +10,6 @@ numpy
 
 Image
 
-StringIO 
+ 
 pandas
 
