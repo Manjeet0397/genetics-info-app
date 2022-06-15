@@ -9,7 +9,7 @@ sequtils
 numpy
 
 Image
-io
+
 StringIO 
 pandas
 
