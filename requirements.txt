@@ -28,7 +28,7 @@ base58==2.1.1
 bcrypt==3.1.7
 beautifulsoup4==4.9.1
 biopython==1.79
-bitarray @ file:///C:/ci/bitarray_1594751093906/work
+
 bkcharts==0.2
 black==22.3.0
 bleach==3.1.5
