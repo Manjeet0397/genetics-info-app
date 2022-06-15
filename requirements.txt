@@ -120,7 +120,7 @@ langcodes==3.3.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 linkedin-scraper==2.9.0
-llvmlite==0.33.0+1.g022ab0f
+
 locket==0.2.0
 MarkupPy==1.14
 MarkupSafe==1.1.1
