@@ -7,7 +7,7 @@ Counter
 neatbio
 sequtils 
 numpy
-PIL
+
 Image
 io
 StringIO 
