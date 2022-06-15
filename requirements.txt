@@ -172,17 +172,15 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 protobuf==3.19.4
 psutil==5.7.0
-psycopg2==2.9.3
-pyarrow==7.0.0
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
+
+
 pycodestyle==2.6.0
 pycosat==0.6.3
-pycryptodome==3.4.3
+
 pycurl==7.43.0.5
 pydantic==1.8.2
 pydeck==0.7.1
-pyflakes==2.2.0
+
 Pygments==2.6.1
 
 pyodbc===4.0.0-unsupported
@@ -194,13 +192,11 @@ PySocks==1.7.1
 pytest==5.4.3
 python-dateutil==2.8.1
 python-decouple==3.6
-python-jwt==2.0.1
+
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
 
-PyWavelets==1.1.1
-pywin32==227
-pywin32-ctypes==0.2.0
+
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
@@ -209,10 +205,8 @@ QtAwesome==0.7.2
 QtPy==1.9.0
 requests==2.27.1
 requests-toolbelt==0.7.0
-rich==12.4.4
-rope==0.17.0
-rsa==4.8
-Rtree==0.9.4
+
+
 ruamel_yaml==0.15.87
 scikit-image==0.16.2
 
